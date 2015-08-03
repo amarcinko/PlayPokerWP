@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="App1.MPlayer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="50" HorizontalAlignment="Left" Margin="33,26,0,0" TextWrapping="Wrap" Text="Multiplayer" VerticalAlignment="Top"/>
+        <TextBlock FontSize="20" HorizontalAlignment="Left" Margin="33,170,0,0" TextWrapping="Wrap" Text="Player Name:" VerticalAlignment="Top"/>
+        <TextBox x:Name="PlayerName" Width="300" Text="{Binding PlayerName, Mode=TwoWay}" Margin="15,170,0,0"/>
+        <Button x:ConnectionId='1' x:Name="btnJoin" Content="Lobby"                        Margin="350,85,0,0"/>
+        <Button x:ConnectionId='2' x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Margin="447,321,0,0" VerticalAlignment="Top"                      />
+
+    </Grid>
+</Page>
+

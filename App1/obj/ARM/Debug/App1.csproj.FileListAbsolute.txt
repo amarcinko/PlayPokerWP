@@ -1,0 +1,116 @@
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\App.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\Game.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\Lobby.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\MainPage.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\MPlayer.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\Poker.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\Top10.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\App1.xr.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\App1.exe
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\App1.pdb
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\resources.pri
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\bin\ARM\Debug\App1.build.appxrecipe
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Game.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Game.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Lobby.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Lobby.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MPlayer.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MPlayer.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Poker.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Poker.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Top10.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Top10.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Game.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Lobby.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MainPage.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MPlayer.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Poker.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Top10.xaml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Game.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Lobby.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MainPage.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MPlayer.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Poker.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\Top10.xbf
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App1.exe
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App1.pdb
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\priconfig.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\layout.resfiles
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\resources.resfiles
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\pri.resfiles
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\qualifiers.txt
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\App1\App1\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\App.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\Game.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\Lobby.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\MainPage.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\MPlayer.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\Poker.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\Top10.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\App1.xr.xml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\App1.exe
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\App1.pdb
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\resources.pri
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\bin\ARM\Debug\App1.build.appxrecipe
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Game.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Game.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Lobby.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Lobby.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MPlayer.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MPlayer.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Poker.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Poker.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Top10.g.i.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Top10.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Game.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Lobby.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MainPage.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MPlayer.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Poker.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Top10.xaml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Game.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Lobby.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MainPage.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MPlayer.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Poker.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\Top10.xbf
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App1.exe
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App1.pdb
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\priconfig.xml
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\layout.resfiles
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\resources.resfiles
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\pri.resfiles
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\qualifiers.txt
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Anđelko Marčinko\Documents\GitHub\PlayPokerWP\App1\obj\ARM\Debug\ProjectArchitectures.txt
